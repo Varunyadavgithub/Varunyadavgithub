@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Varun Yadav
-- 👀 I’m Passionate for Problem Solving and MERN Stack Developer from India
+- 👋 Hi, I’m Varun Yadav.
+- 👀 I’m Passionate for Problem Solving and MERN Stack Developer from India.
 - 🌱 I’m currently learning...<br/><br/>
 - 🙋‍♂️About Me<br/>
   🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things.<br/>
