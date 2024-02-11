@@ -23,9 +23,9 @@
 ## ❤️ DSA Profile
 
 <p align="left"> 
-<img src="lc.png">
+<img src="leetcode.png">
 <img src="gfg.png">
-<img src="cn.png">
+<img src="codingNinjas.png">
 </p> 
 
 ## 🚀 Languages and Tools:
@@ -36,7 +36,6 @@
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/></a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> 
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="96" height="96"/> </a> 
-    <br>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/> </a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/> </a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> </a>
