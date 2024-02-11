@@ -23,12 +23,12 @@
 ## ❤️ DSA Profile
 
 <p align="left"> 
-<img src="leetcode.png">
-<img src="gfg.png">
-<img src="codingNinjas.png">
+<img src="lc.png" width="50" height="50">
+<img src="gfg.png" width="50" height="50">
+<img src="codingNinjas.png" width="50" height="50">
 </p> 
 
-## 🚀 Languages and Tools:
+## 🛠️ Languages and Tools:
 
 <p align="left"> 
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> 
@@ -55,7 +55,7 @@
 </p>
 
 
-## 📝 PROJECT's ZONE (Working on 30+ Persional Projects)
+## 📑 PROJECT's ZONE (Working on 15+ Persional Projects)
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
