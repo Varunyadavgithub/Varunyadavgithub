@@ -59,12 +59,13 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐 My Portfolio [**🔗**](https://portfolioofprince.netlify.app/) | 🌐 BMI Calculator [**🔗**](https://moderndsaprofilesharingpage.netlify.app/) |
-| 🌐 My Calculator [**🔗**](https://ticktacktoogame.netlify.app/) | 🌐 Statistics Wizard [**🔗**](https://github.com/PrinceSinghhub/RazorpayClone-WebSite) | 
-| 🌐 Stone Paper & Scissor Game [**🔗**](https://github.com/PrinceSinghhub/Discord-Clone) | 🌐 Basal Metabolic Rate Calculator [**🔗**](https://princesinghhub.github.io/DSAwithPrinceSingh/) | 
-| 🌐 My Mini Calendar [**🔗**](https://check-your-github.netlify.app/) | 🌐 Our Solar System [**🔗**](https://check-today-weather.netlify.app/) | 
-| 🌐 Tic-Tac-Toe Game [**🔗**](https://princesinghhub.github.io/CoreSubjectsWithMe/) | 🌐 Parallax Nature Website [**🔗**](https://github.com/PrinceSinghhub/CPU-SCHEDULING-ALGORITHM-VISUALISER) | 
-| 🌐 Tribute Website [**🔗**](https://github.com/PrinceSinghhub/MeraCodeEditor) | 🌐 Supermarket Billing System [**🔗**](https://github.com/PrinceSinghhub/Cardiac-Care-With-Virtual-Cardiologist-CCVC) |  
+| 🌐 Currency Converter [**🔗**](https://varunyadavgithub.github.io/Currency-Converter/) | 🌐 Mind Bubble Game [**🔗**](https://varunyadavgithub.github.io/Mind-Bubble-Game/) |
+| 🌐 My Portfolio [**🔗**](https://varunyadavgithub.github.io/Portfolio/) | 🌐 BMI Calculator [**🔗**](https://varunyadavgithub.github.io/BMI-Calculator/) |
+| 🌐 My Calculator [**🔗**](https://varunyadavgithub.github.io/My-Calculator/) | 🌐 Statistics Wizard [**🔗**](https://varunyadavgithub.github.io/Statistics-Wizard/) | 
+| 🌐 Stone Paper & Scissor Game [**🔗**](https://varunyadavgithub.github.io/Stone-Paper-Scissor/) | 🌐 Basal Metabolic Rate Calculator [**🔗**](https://varunyadavgithub.github.io/BMR-Calculator/) | 
+| 🌐 My Mini Calendar [**🔗**](https://varunyadavgithub.github.io/My-Mini-Calendar/) | 🌐 Our Solar System [**🔗**](https://varunyadavgithub.github.io/Solar-System/) | 
+| 🌐 Tic-Tac-Toe Game [**🔗**](https://varunyadavgithub.github.io/Tic-tac-toe/) | 🌐 Parallax Nature Website [**🔗**](https://parallaxnaturewebsite.netlify.app/) | 
+| 🌐 Tribute Website [**🔗**](https://abdulkalamtributeweb.netlify.app/) | 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub/Supermarket_Billing_System) |  
 
 <br>
 
