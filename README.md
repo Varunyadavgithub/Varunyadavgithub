@@ -59,15 +59,14 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐 LinkedIn UI Clone [**🔗**](https://varunyadavgithub.github.io/LinkedIn-UI-Clone/) | 🌐 Currency Converter [**🔗**](https://varunyadavgithub.github.io/Currency-Converter/)
-| 🌐 Mind Bubble Game [**🔗**](https://varunyadavgithub.github.io/Mind-Bubble-Game/) | 🌐 My Portfolio [**🔗**](https://varunyadavgithub.github.io/Portfolio/)
-| 🌐 BMI Calculator [**🔗**](https://varunyadavgithub.github.io/BMI-Calculator/) | 🌐 My Calculator [**🔗**](https://varunyadavgithub.github.io/My-Calculator/)
-| 🌐 Statistics Wizard [**🔗**](https://varunyadavgithub.github.io/Statistics-Wizard/) | 🌐 Stone Paper & Scissor Game [**🔗**](https://varunyadavgithub.github.io/Stone-Paper-Scissor/)
-| 🌐 Basal Metabolic Rate Calculator [**🔗**](https://varunyadavgithub.github.io/BMR-Calculator/) | 🌐 My Mini Calendar [**🔗**](https://varunyadavgithub.github.io/My-Mini-Calendar/)
-| 🌐 Our Solar System [**🔗**](https://varunyadavgithub.github.io/Solar-System/) | 🌐 Tic-Tac-Toe Game [**🔗**](https://varunyadavgithub.github.io/Tic-tac-toe/)
-| 🌐 Parallax Nature Website [**🔗**](https://parallaxnaturewebsite.netlify.app/) | 🌐 Tribute Website [**🔗**](https://abdulkalamtributeweb.netlify.app/) 
-| 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub/Supermarket_Billing_System)   
-
+| 🌐 TextUtils [**🔗**](https://varunyadavgithub.github.io/TextUtils/)  | 🌐 LinkedIn UI Clone [**🔗**](https://varunyadavgithub.github.io/LinkedIn-UI-Clone/)
+| 🌐 Currency Converter [**🔗**](https://varunyadavgithub.github.io/Currency-Converter/)  | 🌐 Mind Bubble Game [**🔗**](https://varunyadavgithub.github.io/Mind-Bubble-Game/) 
+| 🌐 My Portfolio [**🔗**](https://varunyadavgithub.github.io/Portfolio/)  | 🌐 BMI Calculator [**🔗**](https://varunyadavgithub.github.io/BMI-Calculator/) 
+| 🌐 My Calculator [**🔗**](https://varunyadavgithub.github.io/My-Calculator/)  | 🌐 Statistics Wizard [**🔗**](https://varunyadavgithub.github.io/Statistics-Wizard/)
+| 🌐 Stone Paper & Scissor Game [**🔗**](https://varunyadavgithub.github.io/Stone-Paper-Scissor/)  | 🌐 Basal Metabolic Rate Calculator [**🔗**](https://varunyadavgithub.github.io/BMR-Calculator/)
+| 🌐 My Mini Calendar [**🔗**](https://varunyadavgithub.github.io/My-Mini-Calendar/)  | 🌐 Our Solar System [**🔗**](https://varunyadavgithub.github.io/Solar-System/)
+| 🌐 Tic-Tac-Toe Game [**🔗**](https://varunyadavgithub.github.io/Tic-tac-toe/)  | 🌐 Parallax Nature Website [**🔗**](https://parallaxnaturewebsite.netlify.app/)
+| 🌐 Tribute Website [**🔗**](https://abdulkalamtributeweb.netlify.app/) | 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub/Supermarket_Billing_System)   
 <br>
 
 
