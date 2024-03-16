@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yadav.varun056038@gmail.com**
 - 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/varun-yadav-77152b251)
-- 🔗 Connect Me on [**Twitter**](https://x.com/AlphaVarun1)
+- 🔗 Connect Me on [**Twitter**](https://x.com/varun_yadav01)
 
 ## ❤️ DSA Profile
 
