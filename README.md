@@ -85,7 +85,7 @@
 ## 📧 Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/varun-yadav-77152b251" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/AlphaVarun1" target="_main"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/varun_yadav01" target="_main"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
