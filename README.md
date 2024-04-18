@@ -84,9 +84,9 @@
 
 ## 📧 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/varun-yadav-77152b251" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/varun_yadav01" target="_main"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/varun-yadav-77152b251" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40"/></a>
+<a href = "https://x.com/varun_yadav01" target="_main"><img src="https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png" width="40" height="40"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" height="40"/></a>
 </p>
 
 ## ❤ Views and Followers
