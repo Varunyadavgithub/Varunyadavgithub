@@ -56,6 +56,7 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
+| 🌐 AI-Desktop_Assistant [**🔗**](https://varunyadavgithub.github.io/AI-Desktop-Assistance/)
 | 🌐 TextUtils [**🔗**](https://varunyadavgithub.github.io/TextUtils/)  | 🌐 LinkedIn UI Clone [**🔗**](https://varunyadavgithub.github.io/LinkedIn-UI-Clone/)
 | 🌐 Currency Converter [**🔗**](https://varunyadavgithub.github.io/Currency-Converter/)  | 🌐 Mind Bubble Game [**🔗**](https://varunyadavgithub.github.io/Mind-Bubble-Game/) 
 | 🌐 My Portfolio [**🔗**](https://varunyadavgithub.github.io/Portfolio/)  | 🌐 BMI Calculator [**🔗**](https://varunyadavgithub.github.io/BMI-Calculator/) 
