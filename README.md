@@ -56,7 +56,6 @@
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
-| 🌐 AI-Desktop_Assistant [**🔗**](https://varunyadavgithub.github.io/AI-Desktop-Assistance/)
 | 🌐 TextUtils [**🔗**](https://varunyadavgithub.github.io/TextUtils/)  | 🌐 LinkedIn UI Clone [**🔗**](https://varunyadavgithub.github.io/LinkedIn-UI-Clone/)
 | 🌐 Currency Converter [**🔗**](https://varunyadavgithub.github.io/Currency-Converter/)  | 🌐 Mind Bubble Game [**🔗**](https://varunyadavgithub.github.io/Mind-Bubble-Game/) 
 | 🌐 My Portfolio [**🔗**](https://varunyadavgithub.github.io/Portfolio/)  | 🌐 BMI Calculator [**🔗**](https://varunyadavgithub.github.io/BMI-Calculator/) 
@@ -65,6 +64,8 @@
 | 🌐 My Mini Calendar [**🔗**](https://varunyadavgithub.github.io/My-Mini-Calendar/)  | 🌐 Our Solar System [**🔗**](https://varunyadavgithub.github.io/Solar-System/)
 | 🌐 Tic-Tac-Toe Game [**🔗**](https://varunyadavgithub.github.io/Tic-tac-toe/)  | 🌐 Parallax Nature Website [**🔗**](https://parallaxnaturewebsite.netlify.app/)
 | 🌐 Tribute Website [**🔗**](https://abdulkalamtributeweb.netlify.app/) | 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub/Supermarket_Billing_System)   
+| 🌐 AI-Desktop_Assistant [**🔗**](https://varunyadavgithub.github.io/AI-Desktop-Assistant/)
+
 <br/>
 <hr>
 <p align="center">
