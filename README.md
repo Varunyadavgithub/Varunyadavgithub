@@ -64,7 +64,7 @@
 | 🌐 My Mini Calendar [**🔗**](https://varunyadavgithub.github.io/My-Mini-Calendar/)  | 🌐 Our Solar System [**🔗**](https://varunyadavgithub.github.io/Solar-System/)
 | 🌐 Tic-Tac-Toe Game [**🔗**](https://varunyadavgithub.github.io/Tic-tac-toe/)  | 🌐 Parallax Nature Website [**🔗**](https://parallaxnaturewebsite.netlify.app/)
 | 🌐 Tribute Website [**🔗**](https://abdulkalamtributeweb.netlify.app/) | 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub/Supermarket_Billing_System)   
-| 🌐 AI-Desktop-Assistant [**🔗**](https://varunyadavgithub.github.io/AI-Desktop-Assistant/)
+| 🌐 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/)
 
 <br/>
 <hr>
