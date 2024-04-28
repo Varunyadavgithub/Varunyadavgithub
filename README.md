@@ -1,7 +1,7 @@
 <!--<img src="add banner">-->  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Varun Yadav</b></h1>
 <h2 align="center"><b>Prefinal year Student 🚀</b></h2>
-<h4 align="center"><b>CSE'25 | Problem Solving Enthusiast 🧠 | MERN Stack Development🧑‍💻 | 100DaysOfCode+ on @GFG | 100DaysOfCode+ on @CodingNinjas | Problem Solver | Institute 19th🥇 Rank GFG | 500+ Problems Solved in DSA | HardCore DSA Lover ❤️  </b>
+<h4 align="center"><b>CSE'25 | Problem Solving Enthusiast 🧠 | MERN Stack Development🧑‍💻 | 100DaysOfCode+ on @GFG | 100DaysOfCode+ on @LeetCode | 77DaysOfCode on @CodingNinjas | Problem Solver | Institute 19th🥇 Rank GFG | 500+ Problems Solved in DSA | HardCore DSA Lover ❤️  </b>
 </b></h4>   
 
 ## 🙋‍♂️ About Me
