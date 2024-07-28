@@ -11,7 +11,7 @@
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.<br>
 - 👁‍🗨 What's Special about me?<br/>
   <pre>  Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.</pre>
-- 🔭 I’m Currently Studying in 2nd Year.<br/>
+- 🔭 I’m Currently Studying in final Year.<br/>
 - 📔 Live [**MyPortfolio**](https://varunyadavgithub.github.io/Portfolio/)
 - 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**<br>
 - 👯 I’m looking to collaborate on **OpenSource Projects**
