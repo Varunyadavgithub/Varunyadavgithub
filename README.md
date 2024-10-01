@@ -45,6 +45,7 @@
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> 
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" /></a>
     <br>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
