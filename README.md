@@ -119,8 +119,8 @@
 | 🌐 My Calculator [**🔗**](https://github.com/Varunyadavgithub/My-Calculator/)  | 🌐 Statistics Wizard [**🔗**](https://github.com/Varunyadavgithub/Statistics-Wizard/)
 | 🌐 Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/)  | 🌐 Basal Metabolic Rate Calculator [**🔗**](https://github.com/Varunyadavgithub/BMR-Calculator/)
 | 🌐 My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/)  | 🌐 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System/)
-| 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/)  | 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax_Nature_Website)
-| 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/Abdulkalam_Tributeweb) | 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System)   
+| 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/)  | 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website)
+| 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System)   
 | 🌐 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) | 🌐 EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
 
 <br/>
