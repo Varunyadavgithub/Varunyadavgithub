@@ -108,15 +108,14 @@
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/> </a>
 </p> -->
 
-
 ## 📑 PROJECT's ZONE (Working on 15+ Persional Projects)
 
 | Beginner                    | Intermediate                    | Advanced                    |
 |-----------------------------|---------------------------------|-----------------------------|
-| 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System) | 🌐 TextUtils [**🔗**](https://github.com/Varunyadavgithub/TextUtils) | 🌐 EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
-| 🌐 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) |
-| 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) |
-| 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) |
+| 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System) | 🌐 TextUtils [**🔗**](https://github.com/Varunyadavgithub/TextUtils) | 🌐 BookStore [**🔗**](https://github.com/Varunyadavgithub/BookStore-App)
+| 🌐 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) | 🌐 CRUD API [**🔗**](https://github.com/Varunyadavgithub/CRUD-API) | 🌐 EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
+| 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🌐 CRUD Application [**🔗**](https://github.com/Varunyadavgithub/CRUD-app) | 🌐 AlphaDev [**🔗**](https://github.com/Varunyadavgithub/AlphaDev)
+| 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | 🌐 Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🌐 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
 | 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) |
 | 🌐 My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/)
 | 🌐 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System/)
