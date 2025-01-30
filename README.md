@@ -24,7 +24,7 @@
 - 👁‍🗨 What's Special about me?<br/>
   <pre>  Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.</pre>
 - 🔭 I’m Currently Studying in final Year.<br/>
-- 📔 Live [**MyPortfolio**](https://varunyadavgithub.github.io/Portfolio/)
+- 📔 Live [**MyPortfolio**](https://thecyberdevvarun.vercel.app/)
 - 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**<br>
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yadav.varun056038@gmail.com**
