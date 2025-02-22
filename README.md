@@ -1,35 +1,20 @@
-<!--<img src="add banner">-->  
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Varun Yadav</b></h1>
-<h2 align="center"><b>Final year Student 🚀</b></h2>
-<h4 align="center"><b>CSE'25 | Problem Solving Enthusiast 🧠 | MERN Stack Development🧑‍💻 | 100DaysOfCode+ on @GFG | 100DaysOfCode+ on @LeetCode | 77DaysOfCode on @CodingNinjas | Problem Solver | Institute 19th🥇 Rank GFG | 500+ Problems Solved in DSA | HardCore DSA Lover ❤️  </b>
-</b></h4>   
+<h1 align="center">⚡ Hi there, I'm Varun Yadav! 👋 ⚡</h1>
+<h3 align="center">🚀 Full-Stack Developer | Web Penetration Testing Enthusiast 🛡️ | Cybersecurity Learner</h3>
 
-<p align="center"> 
- <a href="https://www.linkedin.com/in/varun-yadav-77152b251" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Varun Yadav"/>
- </a>
- <a href="https://x.com/varun_yadav01" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="varun_yadav01"/>
- </a>
-   <a href="mailto:yadav.varun056038@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Varun Yadav" />
- </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Code+by+day%2C+Hack+by+night;Full-Stack+Developer;Web+Pentesting+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning...<br/><br/>
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things.<br/>
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.<br>
-- 👁‍🗨 What's Special about me?<br/>
-  <pre>  Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.</pre>
-- 🔭 I’m Currently Studying in final Year.<br/>
-- 📔 Live [**MyPortfolio**](https://thecyberdevvarun.vercel.app/)
-- 📘 I’m Currently Studying **New Tech Stack for Expanding My Skills set and Knowledge**<br>
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **yadav.varun056038@gmail.com**
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/varun-yadav-77152b251)
-- 🔗 Connect Me on [**Twitter**](https://x.com/varun_yadav01)
+- 🔭 I’m currently working on **MERN stack applications** and **Web Security Research**
+- 🌱 I’m learning **Cybersecurity, Bug Bounty, and Ethical Hacking**
+- 👯 I’m looking to collaborate on **full-stack projects and security-related research**
+- 💬 Ask me about **MERN Stack, DSA, and Web Application Security**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thecyberdevvarun) | [Twitter](https://x.com/varun_yadav01) | [Portfolio](https://thecyberdevvarun.vercel.app)
+- ⚡ Fun fact: I love **solving complex coding challenges and exploring security vulnerabilities!**
+
+---
 
 ## ❤️ DSA Profile
 
@@ -39,8 +24,9 @@
 <img src="codingNinjas.png" width="50" height="50">
 </p> 
 
+---
 
-## 💻Use To Code
+## 💻Use to Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -84,9 +70,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) -->
 
-<!-- ## 🛠️ Languages and Tools:
-
-<p align="left"> 
+<!--
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> 
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/></a>
@@ -103,13 +87,36 @@
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a>
     <a href="#"> <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="firebase" width="80" height="80"/></a>
-    <br>
     <a href="#"> <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/96/windows-10.png"/> </a>
     <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/> </a>
-</p> -->
+-->
 
-## 📑 PROJECT's ZONE (Working on 15+ Persional Projects)
+## 🕵️‍♂️ Use to Hack
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-990000?style=for-the-badge&logo=burp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-7F64FF?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-BC2929?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167B6E?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-0099FF?style=for-the-badge&logo=nikto&logoColor=white)
+![Hydra](https://img.shields.io/badge/THC_Hydra-00599C?style=for-the-badge&logo=hydra&logoColor=white)
+![DirBuster](https://img.shields.io/badge/DirBuster-9F1D1D?style=for-the-badge&logo=apache&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-5A6A77?style=for-the-badge&logo=go&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-ED2A20?style=for-the-badge&logo=sql&logoColor=white)
+![Burp Collaborator](https://img.shields.io/badge/Burp_Collaborator-F9E500?style=for-the-badge&logo=burp&logoColor=white)
+![Social Engineering Toolkit](https://img.shields.io/badge/SET-EE3A3A?style=for-the-badge&logo=python&logoColor=white)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-6A4D8E?style=for-the-badge&logo=owasp&logoColor=white)
+![Cloud Pentesting](https://img.shields.io/badge/Cloud_Pentesting-2470C7?style=for-the-badge&logo=amazonaws&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-007ACC?style=for-the-badge&logo=html5&logoColor=white)
+![CSRF](https://img.shields.io/badge/CSRF-7E0A30?style=for-the-badge&logo=html5&logoColor=white)
+![Subdomain Enumeration](https://img.shields.io/badge/Subdomain_Enumeration-5A5357?style=for-the-badge&logo=domain&logoColor=white)
+![JWT Token Hacking](https://img.shields.io/badge/JWT_Hacking-232F3E?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+---
+
+## 📑 PROJECT's ZONE
 
 | Beginner                    | Intermediate                    | Advanced                    |
 |-----------------------------|---------------------------------|-----------------------------|
@@ -130,8 +137,9 @@
 | 🌐 Mind Bubble Game [**🔗**](https://github.com/Varunyadavgithub/Mind-Bubble-Game/) 
 | 🌐 LinkedIn UI Clone [**🔗**](https://github.com/Varunyadavgithub/LinkedIn-UI-Clone)
 
-<br/>
-<hr>
+🚀 *Many more exciting projects in progress...*  
+
+---
  
 <p align="center">
     <a href="https://https://github.com/Varunyadavgithub/github-readme-streak-stats">
@@ -139,37 +147,17 @@
     </a>
 </p>
  
-## 📊 My Github Stats
-   <br/>
-<a href="https://github.com/Varunyadavgithub/github-readme-stats"><img alt="Varun yadav Github Stats" src="https://github-readme-stats.vercel.app/api?username=Varunyadavgithub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img alt="Varun Yadav Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadavgithub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 📊 Github Stats  
 
-<br/>
-<br/>
+| <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Varunyadavgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Varun's github stats" /></a> | <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadavgithub&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-## 📧 Connect with me
-<p align="left">
-<a href = "https://www.linkedin.com/in/varun-yadav-77152b251" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40"/></a>
-<a href = "https://x.com/varun_yadav01" target="_main"><img src="https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png" width="40" height="40"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40" height="40"/></a>
-</p>
+## 🚀 Valuable Learning Resources  
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Varunyadavgithub">
-</a>
-<a href="https://github.com/Varunyadavgithub?tab=followers"><img src="https://img.shields.io/github/followers/Varunyadavgithub?label=Followers&style=social" alt="GitHub Badge"></a>
+| <a href="https://github.com/Varunyadavgithub/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=DSA-Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=WebPentesting_Journey&theme=buefy" /></a>| 
+| ------------- | ------------- |
 
-
-
-
-
-
- 
-
-<!---
-Varunyadavgithub/Varunyadavgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Connect With Me  
+🌐 **Portfolio:** [thecyberdevvarun](https://thecyberdevvarun.vercel.app)  
+🔗 **LinkedIn:** [Varun Yadav](https://www.linkedin.com/in/thecyberdevvarun)  
+💬 **Twitter:** [@varun_yadav01](https://x.com/varun_yadav01)  
