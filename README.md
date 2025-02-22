@@ -140,13 +140,10 @@
 🚀 *Many more exciting projects in progress...*  
 
 ---
- 
-<p align="center">
-    <a href="https://https://github.com/Varunyadavgithub/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Varun Yadav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Varunyadavgithub&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
- 
+## 🔥 GitHub Streak 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Varunyadavgithub&theme=hacker&border_radius=15&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ## 📊 Github Stats  
 
 | <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Varunyadavgithub&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Varun's github stats" /></a> | <a href="https://github.com/Varunyadavgithub/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varunyadavgithub&layout=compact&theme=buefy&hide_border=true" /></a> |
