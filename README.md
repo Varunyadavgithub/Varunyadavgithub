@@ -1,5 +1,5 @@
-<h1 align="center">⚡ Hi there, I'm Varun Yadav! 👋 ⚡</h1>
-<h3 align="center">🚀 Full-Stack Developer | Web Penetration Testing Enthusiast 🛡️ | Cybersecurity Learner</h3>
+<h1 align="center">⚡ 👋Hi there, I'm Varun Yadav! ⚡</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | Web Penetration Testing Enthusiast 🛡️ | Cybersecurity Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Code+by+day%2C+Hack+by+night;Full-Stack+Developer;Web+Pentesting+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor" alt="Typing SVG" />
@@ -151,8 +151,11 @@
 
 ## 🚀 Valuable Learning Resources  
 
-| <a href="https://github.com/Varunyadavgithub/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=DSA-Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=WebPentesting_Journey&theme=buefy" /></a>| 
+| <a href="https://github.com/Varunyadavgithub/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=DSA-Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=WebPentesting_Journey&theme=buefy" /></a> |
 | ------------- | ------------- |
+
+| <a href="https://github.com/Varunyadavgithub/JavaScript-Interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=JavaScript-Interview&theme=buefy" /></a> |
+| ------------- |
 
 ## 📫 Connect With Me  
 🌐 **Portfolio:** [thecyberdevvarun](https://thecyberdevvarun.vercel.app)  
