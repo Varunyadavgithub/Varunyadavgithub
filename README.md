@@ -151,11 +151,11 @@
 
 ## 🚀 Valuable Learning Resources  
 
-| <a href="https://github.com/Varunyadavgithub/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=DSA-Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=WebPentesting_Journey&theme=buefy" /></a> |
+| <a href="https://github.com/Varunyadavgithub/Dev-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=Dev-Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/DSA-Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=DSA-Journey&theme=buefy" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/Varunyadavgithub/JavaScript-Interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=JavaScript-Interview&theme=buefy" /></a> |
-| ------------- |
+| <a href="https://github.com/Varunyadavgithub/WebPentesting_Journey"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=WebPentesting_Journey&theme=buefy" /></a> | <a href="https://github.com/Varunyadavgithub/JavaScript-Interview"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varunyadavgithub&repo=JavaScript-Interview&theme=buefy" /></a> |
+| ------------- | ------------- |
 
 ## 📫 Connect With Me  
 🌐 **Portfolio:** [thecyberdevvarun](https://thecyberdevvarun.vercel.app)  
