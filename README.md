@@ -124,7 +124,7 @@
 | 🌐 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) | 🌐 CRUD API [**🔗**](https://github.com/Varunyadavgithub/CRUD-API) | 🌐 EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
 | 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🌐 CRUD Application [**🔗**](https://github.com/Varunyadavgithub/CRUD-app) | 🌐 AlphaDev [**🔗**](https://github.com/Varunyadavgithub/AlphaDev)
 | 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | 🌐 Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🌐 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
-| 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | |🌐 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
+| 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/Varunyadavgithub/Chrome-Extensions) |🌐 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
 | 🌐 My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | |🌐 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
 | 🌐 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System/)
 | 🌐 Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/)
