@@ -125,7 +125,7 @@
 | 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🌐 CRUD Application [**🔗**](https://github.com/Varunyadavgithub/CRUD-app) | 🌐 AlphaDev [**🔗**](https://github.com/Varunyadavgithub/AlphaDev)
 | 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | 🌐 Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🌐 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
 | 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/Varunyadavgithub/Chrome-Extensions) |🌐 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
-| 🌐 My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | |🌐 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
+| 🌐 My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | 🌐 Reminder App [**🔗**](https://github.com/Varunyadavgithub/ReminderApp) |🌐 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
 | 🌐 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System/)
 | 🌐 Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/)
 | 🌐 My Calculator [**🔗**](https://github.com/Varunyadavgithub/My-Calculator/)
