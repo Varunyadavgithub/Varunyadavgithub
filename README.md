@@ -136,6 +136,7 @@
 | 💱 Currency Converter [**🔗**](https://github.com/Varunyadavgithub/Currency-Converter/) |  
 | 🧠 Mind Bubble Game [**🔗**](https://github.com/Varunyadavgithub/Mind-Bubble-Game/) |  
 | 🔗 LinkedIn UI Clone [**🔗**](https://github.com/Varunyadavgithub/LinkedIn-UI-Clone)
+
 🚀 *Many more exciting projects in progress...*  
 
 ---
