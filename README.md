@@ -120,23 +120,22 @@
 
 | Beginner                    | Intermediate                    | Advanced                    |
 |-----------------------------|---------------------------------|-----------------------------|
-| 🌐 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System) | 🌐 TextUtils [**🔗**](https://github.com/Varunyadavgithub/TextUtils) | 🌐 BookStore [**🔗**](https://github.com/Varunyadavgithub/BookStore-App)
-| 🌐 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) | 🌐 CRUD API [**🔗**](https://github.com/Varunyadavgithub/CRUD-API) | 🌐 EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
-| 🌐 Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🌐 CRUD Application [**🔗**](https://github.com/Varunyadavgithub/CRUD-app) | 🌐 AlphaDev [**🔗**](https://github.com/Varunyadavgithub/AlphaDev)
-| 🌐 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | 🌐 Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🌐 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
-| 🌐 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/Varunyadavgithub/Chrome-Extensions) |🌐 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
-| 🌐 My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | 🌐 Reminder App [**🔗**](https://github.com/Varunyadavgithub/ReminderApp) |🌐 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
-| 🌐 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System/)
-| 🌐 Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/)
-| 🌐 My Calculator [**🔗**](https://github.com/Varunyadavgithub/My-Calculator/)
-| 🌐 Basal Metabolic Rate Calculator [**🔗**](https://github.com/Varunyadavgithub/BMR-Calculator/)
-| 🌐 Statistics Wizard [**🔗**](https://github.com/Varunyadavgithub/Statistics-Wizard/)
-| 🌐 BMI Calculator [**🔗**](https://github.com/Varunyadavgithub/BMI-Calculator/) 
-| 🌐 My Portfolio [**🔗**](https://github.com/Varunyadavgithub/Portfolio/)
-| 🌐 Currency Converter [**🔗**](https://github.com/Varunyadavgithub/Currency-Converter/)
-| 🌐 Mind Bubble Game [**🔗**](https://github.com/Varunyadavgithub/Mind-Bubble-Game/) 
-| 🌐 LinkedIn UI Clone [**🔗**](https://github.com/Varunyadavgithub/LinkedIn-UI-Clone)
-
+| 🛒 Supermarket Billing System [**🔗**](https://github.com/Varunyadavgithub//Supermarket_Billing_System) | ✍️ TextUtils [**🔗**](https://github.com/Varunyadavgithub/TextUtils) | 📚 BookStore [**🔗**](https://github.com/Varunyadavgithub/BookStore-App)
+| 🧠 AI-Desktop-Assistant [**🔗**](https://github.com/Varunyadavgithub/AI-Desktop-Assistant/) | ⚙️ CRUD API [**🔗**](https://github.com/Varunyadavgithub/CRUD-API) | 🛍️ EasyShoppe [**🔗**](https://github.com/Varunyadavgithub/EasyShoppe)
+| 🕊️ Tribute Website [**🔗**](https://github.com/Varunyadavgithub/A.P.J-Abdul-Kalam-Tribute-website) | 🗂️ CRUD Application [**🔗**](https://github.com/Varunyadavgithub/CRUD-app) | 💻 AlphaDev [**🔗**](https://github.com/Varunyadavgithub/AlphaDev)
+| 🎮 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | ✅ Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🧬 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
+| 🌿 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/Varunyadavgithub/Chrome-Extensions) | 📚 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
+| 🗓️ My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | ⏰ Reminder App [**🔗**](https://github.com/Varunyadavgithub/ReminderApp) | 🛒 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
+| 🚀 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System) | 🤖 NovaCraft-AI [**🔗**](https://github.com/Varunyadavgithub/NovaCraft-AI) | 🛠️ Tool Report [**🔗**](https://github.com/Varunyadavgithub/WRL-Dashboard)
+| ✊ Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/) |  
+| 🧮 My Calculator [**🔗**](https://github.com/Varunyadavgithub/My-Calculator/) |  
+| ⚖️ Basal Metabolic Rate Calculator [**🔗**](https://github.com/Varunyadavgithub/BMR-Calculator/) |  
+| 📊 Statistics Wizard [**🔗**](https://github.com/Varunyadavgithub/Statistics-Wizard/) |  
+| ⚖️ BMI Calculator [**🔗**](https://github.com/Varunyadavgithub/BMI-Calculator/) |  
+| 👨‍💻 My Portfolio [**🔗**](https://github.com/Varunyadavgithub/Portfolio/) |  
+| 💱 Currency Converter [**🔗**](https://github.com/Varunyadavgithub/Currency-Converter/) |  
+| 🧠 Mind Bubble Game [**🔗**](https://github.com/Varunyadavgithub/Mind-Bubble-Game/) |  
+| 🔗 LinkedIn UI Clone [**🔗**](https://github.com/Varunyadavgithub/LinkedIn-UI-Clone)
 🚀 *Many more exciting projects in progress...*  
 
 ---
