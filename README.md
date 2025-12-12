@@ -126,8 +126,8 @@
 | 🎮 Tic-Tac-Toe Game [**🔗**](https://github.com/Varunyadavgithub/Tic-tac-toe/) | ✅ Task-manager [**🔗**](https://github.com/Varunyadavgithub/Assignment-Task-manager) | 🧬 AlphaAI [**🔗**](https://github.com/Varunyadavgithub/AlphaAI)
 | 🌿 Parallax Nature Website [**🔗**](https://github.com/Varunyadavgithub/Parallax-Nature-Website) | 🎨 Chrome-Extensions [**🔗**](https://github.com/Varunyadavgithub/Chrome-Extensions) | 📚 LearnHub [**🔗**](https://github.com/Varunyadavgithub/LearnHub)
 | 🗓️ My Mini Calendar [**🔗**](https://github.com/Varunyadavgithub/My-Mini-Calendar/) | ⏰ Reminder App [**🔗**](https://github.com/Varunyadavgithub/ReminderApp) | 🛒 ShopSphere [**🔗**](https://github.com/Varunyadavgithub/ShopSphere)
-| 🚀 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System) | 🤖 NovaCraft-AI [**🔗**](https://github.com/Varunyadavgithub/NovaCraft-AI) | 🛠️ Tool Report [**🔗**](https://github.com/Varunyadavgithub/WRL-Dashboard)
-| ✊ Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/) |  
+| 🚀 Our Solar System [**🔗**](https://github.com/Varunyadavgithub/Solar-System) | 🤖 NovaCraft-AI [**🔗**](https://github.com/Varunyadavgithub/NovaCraft-AI) | 🛠️ WRL Tool Report [**🔗**](https://github.com/Varunyadavgithub/WRL-Dashboard)
+| ✊ Stone Paper & Scissor Game [**🔗**](https://github.com/Varunyadavgithub/Stone-Paper-Scissor/) | | 🪪 WRL Visitorpass [**🔗**](https://github.com/Varunyadavgithub/WRL-Visitorpass)
 | 🧮 My Calculator [**🔗**](https://github.com/Varunyadavgithub/My-Calculator/) |  
 | ⚖️ Basal Metabolic Rate Calculator [**🔗**](https://github.com/Varunyadavgithub/BMR-Calculator/) |  
 | 📊 Statistics Wizard [**🔗**](https://github.com/Varunyadavgithub/Statistics-Wizard/) |  
